@@ -10,6 +10,8 @@ namespace _13f1
     {
         static void Main()
         {
+            System.Console.WriteLine("Hello TC!");
+            System.Console.ReadLine();
         }
     }
 }
